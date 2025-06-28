@@ -74,6 +74,8 @@ Coming soon possibly!
 
 4. Browse LinkedIn jobs and enjoy a cleaner linkedin job feed
 
+5. **If you update your list of companies, title preference, or viewed, applied, and saved, you will have to refresh the browser to apply those changes**
+
 ---
 
 ## Development
