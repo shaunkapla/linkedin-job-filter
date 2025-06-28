@@ -6,6 +6,12 @@ A Chrome extension to help you filter LinkedIn job listings by **company blackli
 
 ---
 
+## Current Issues That I'm Working On
+
+1. When you view a job with the extension applied, it will remove it from the left side bar on the linkedin page. That is because when you click a job on linkedin it updates the "job card" to be set to "viewed" and the software views it as now that job is viewed, lets take it out of your sight. I am working on figuring this out so bear with me haha.
+
+---
+
 ## Features
 
 - **Blacklist companies** you don’t want to see job listings from
@@ -66,15 +72,23 @@ Coming soon possibly!
 
 ## Usage
 
-1. Click the extension icon in your Chrome toolbar to open the popup
+1. Click the extension icon in your Chrome toolbar to open the popup (upper right hand side puzzle piece icon)
 
-2. Add companies to blacklist or job title keywords to filter
+2. Click the vertically aligned three dots next to linkedin job filter
 
-3. Toggle options to hide viewed/applied/saved jobs
+3. Open up **This Can Read And Change Site Data** and then select **When you click the extension**
 
-4. Browse LinkedIn jobs and enjoy a cleaner linkedin job feed
+4. You should also click the pin icon to make it more accessible
 
-5. **If you update your list of companies, title preference, or viewed, applied, and saved, you will have to refresh the browser to apply those changes**
+5. Open up linkedin and open the extension on the upper right hand corner
+
+6. Add companies to blacklist or job title keywords to filter out
+
+7. Toggle options to hide viewed/applied/saved jobs
+
+8. Browse LinkedIn jobs and enjoy a cleaner linkedin job feed
+
+9. **If you update your list of companies, title preference, or viewed, applied, and saved, you will have to refresh the browser to apply those changes**
 
 ---
 
