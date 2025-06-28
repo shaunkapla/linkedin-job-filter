@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>LinkedIn Job Filter</title>
+  <script src="popup.js" defer></script>
+  <link rel="stylesheet" href="popup.css"/>
+</head>
+<body>
+  <div class="container">
+    <h3>Company Blacklist</h3>
+    <div class="search">
+      <input type="text" id="company-input" placeholder="Add company" />
+      <button id="add-company-btn">Add</button>
+    </div>
+    <ul id="company-list"></ul>
+
+    <h3>Job Title Filters</h3>
+    <div class="search">
+      <input type="text" id="title-input" placeholder="e.g. Staff" />
+      <button id="add-title-btn">Add</button>
+    </div>
+    <ul id="title-list"></ul>
+
+    <div class="checkboxes">
+      <label>
+        <input type="checkbox" id="hideViewed">
+        Hide Viewed Jobs
+      </label>
+      <label>
+        <input type="checkbox" id="hideApplied">
+        Hide Applied Jobs
+      </label>
+    </div>
+  </div>
+</body>
+</html>
