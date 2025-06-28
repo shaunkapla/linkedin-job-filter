@@ -118,3 +118,14 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+## Disclaimer
+
+This project is an independent tool developed for personal and educational purposes.
+
+It is **not affiliated with, endorsed by, or connected to LinkedIn Corporation** in any way.  
+All trademarks, service marks, trade names, and logos used are the property of their respective owners.
+
+Use this extension at your own risk. The author assumes no responsibility or liability for any issues, damages, or consequences resulting from the use or misuse of this software.
+
+By using this extension, you agree to take full responsibility for compliance with LinkedIn’s terms of service and any applicable laws or regulations.
