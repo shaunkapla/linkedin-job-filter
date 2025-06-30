@@ -9,7 +9,9 @@ A Chrome extension to help you filter LinkedIn job listings by **company blackli
 ## Current Issues That I'm Working On
 
 1. When you view a job with the extension applied, it will remove it from the left side bar on the linkedin page. That is because when you click a job on linkedin it updates the "job card" to be set to "viewed" and the software views it as now that job is viewed, lets take it out of your sight. I am working on figuring this out so bear with me haha.
-
+   -   UPDATE: Fixed. Was solved in this [merge request](https://github.com/shaunkapla/linkedin-job-filter/pull/1)
+  
+2. When you save a job in the moment it will remove that job due to the feature that when you have a job saved, it will remove it. Am working on that now.
 ---
 
 ## Features
