@@ -9,7 +9,11 @@ A Chrome extension to help you filter LinkedIn job listings by **company blackli
 ## Current Issues That I'm Working On
 
 1. When you view a job with the extension applied, it will remove it from the left side bar on the linkedin page. That is because when you click a job on linkedin it updates the "job card" to be set to "viewed" and the software views it as now that job is viewed, lets take it out of your sight. I am working on figuring this out so bear with me haha.
+   -   UPDATE: Fixed. Was solved in this [merge request](https://github.com/shaunkapla/linkedin-job-filter/pull/1)
+  
+2. When you save a job in the moment it will remove that job due to the feature that when you have a job saved, it will remove it. Am working on that now.
 
+3. When you try to search for a company name (e.g Company1), and that company name is in your **Company Filter**, it will freeze the page. I think I know why and will be tackling this soon.
 ---
 
 ## Features
@@ -47,6 +51,12 @@ A Chrome extension to help you filter LinkedIn job listings by **company blackli
 
 7. The extension should now load and you can test it on LinkedIn job search pages
 
+8. If it doesn't load the first time, try doing these steps again. This has been a working problem and I don't think there is a solution.
+
+9. When you unzip the project, check to see if their is another folder in the unzipped folder (this happens sometimes). If it does, when you click **Load Unpacked**, set it to be that inner folder
+
+10. This extension will not work when linkedin job search is in the **beta AI job search**. You have to use the regular job search for linkedin
+
 ### From Source (Developer)
 
 1. Clone this repository:
@@ -74,21 +84,17 @@ Coming soon possibly!
 
 1. Click the extension icon in your Chrome toolbar to open the popup (upper right hand side puzzle piece icon)
 
-2. Click the vertically aligned three dots next to linkedin job filter
+2. You should also click the pin icon to make it more accessible
 
-3. Open up **This Can Read And Change Site Data** and then select **When you click the extension**
+3. Open up linkedin and open the extension on the upper right hand corner
 
-4. You should also click the pin icon to make it more accessible
+4. Add companies to blacklist or job title keywords to filter out
 
-5. Open up linkedin and open the extension on the upper right hand corner
+5. Toggle options to hide viewed/applied jobs
 
-6. Add companies to blacklist or job title keywords to filter out
+6. Browse LinkedIn jobs and enjoy a cleaner linkedin job feed
 
-7. Toggle options to hide viewed/applied/saved jobs
-
-8. Browse LinkedIn jobs and enjoy a cleaner linkedin job feed
-
-9. **If you update your list of companies, title preference, or viewed, applied, and saved, you will have to refresh the browser to apply those changes**
+7. **Any changes to your job search preferences will require you to reload the page**
 
 ---
 
