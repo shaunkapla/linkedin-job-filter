@@ -49,6 +49,8 @@ A Chrome extension to help you filter LinkedIn job listings by **company blackli
 
 7. The extension should now load and you can test it on LinkedIn job search pages
 
+8. If it doesn't load the first time, try doing these steps again. This has been a working problem and I don't think there is a solution.
+
 ### From Source (Developer)
 
 1. Clone this repository:
