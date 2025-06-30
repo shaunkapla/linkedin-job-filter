@@ -12,6 +12,8 @@ A Chrome extension to help you filter LinkedIn job listings by **company blackli
    -   UPDATE: Fixed. Was solved in this [merge request](https://github.com/shaunkapla/linkedin-job-filter/pull/1)
   
 2. When you save a job in the moment it will remove that job due to the feature that when you have a job saved, it will remove it. Am working on that now.
+
+3. When you try to search for a company name (e.g Company1), and that company name is in your **Company Filter**, it will freeze the page. I think I know why and will be tackling this soon.
 ---
 
 ## Features
@@ -50,6 +52,10 @@ A Chrome extension to help you filter LinkedIn job listings by **company blackli
 7. The extension should now load and you can test it on LinkedIn job search pages
 
 8. If it doesn't load the first time, try doing these steps again. This has been a working problem and I don't think there is a solution.
+
+9. When you unzip the project, check to see if their is another folder in the unzipped folder (this happens sometimes). If it does, when you click **Load Unpacked**, set it to be that inner folder
+
+10. This extension will not work when linkedin job search is in the **beta AI job search**. You have to use the regular job search for linkedin
 
 ### From Source (Developer)
 
