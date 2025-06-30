@@ -74,21 +74,17 @@ Coming soon possibly!
 
 1. Click the extension icon in your Chrome toolbar to open the popup (upper right hand side puzzle piece icon)
 
-2. Click the vertically aligned three dots next to linkedin job filter
+2. You should also click the pin icon to make it more accessible
 
-3. Open up **This Can Read And Change Site Data** and then select **When you click the extension**
+3. Open up linkedin and open the extension on the upper right hand corner
 
-4. You should also click the pin icon to make it more accessible
+4. Add companies to blacklist or job title keywords to filter out
 
-5. Open up linkedin and open the extension on the upper right hand corner
+5. Toggle options to hide viewed/applied jobs
 
-6. Add companies to blacklist or job title keywords to filter out
+6. Browse LinkedIn jobs and enjoy a cleaner linkedin job feed
 
-7. Toggle options to hide viewed/applied/saved jobs
-
-8. Browse LinkedIn jobs and enjoy a cleaner linkedin job feed
-
-9. **If you update your list of companies, title preference, or viewed, applied, and saved, you will have to refresh the browser to apply those changes**
+7. **Any changes to your job search preferences will require you to reload the page**
 
 ---
 
